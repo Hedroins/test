@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>ssm-api</module>
+  	<module>ssm-api3</module>
 	<module>ssm-api1</module>
   </modules>
 </project>
