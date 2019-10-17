@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>ssm-api</module>
+	<module>ssm-api1</module>
   </modules>
 </project>
